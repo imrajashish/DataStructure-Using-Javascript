@@ -52,7 +52,7 @@ class SinglyLinkList{
             this.head = newNode;
 
         }
-        this.length = this.length +1
+        this.length = this.length +1;
         return this.length
     }
 }
